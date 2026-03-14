@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi, I'm Alauddin 👋
 
-<!--
-**DoshiCkk/DoshiCkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Backend Developer from Astana.
 
-Here are some ideas to get you started:
+I build backend systems, web applications and experiment with AI and computer vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on improving my skills in backend engineering and machine learning.
+
+---
+
+## Tech Stack
+
+Python  
+Django  
+Django REST Framework  
+PostgreSQL  
+Docker  
+OpenCV  
+TensorFlow  
+HTML / CSS / JavaScript  
+
+---
+
+## Projects
+
+### Lip Reading AI
+An AI system that recognizes speech by analyzing lip movements.
+
+Features:
+- Lip detection using computer vision
+- Dataset recording
+- Model training with TensorFlow
+- Real-time prediction experiments
+
+---
+
+### Django Marketplace
+A marketplace web application with full backend logic.
+
+Features:
+- User authentication
+- Seller dashboard
+- Product reviews
+- Shopping cart and order system
+- PostgreSQL database
+- Dockerized environment
+
+---
+
+### Quote Generator
+A web generator that creates printable quotes for clothing design.
+
+Features:
+- Random quote generation
+- Simple web interface
+- Printable formats
+
+---
+
+## Currently Learning
+
+Machine Learning  
+System Design  
+Advanced Django / Backend Architecture  
+
+---
+
+## Goals
+
+Build production-level backend systems and develop AI tools that solve real problems.
+
+---
+
+## Contact
+
+GitHub: https://github.com/yourusername
