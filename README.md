@@ -45,17 +45,6 @@ Features:
 - PostgreSQL database
 - Dockerized environment
 
----
-
-### Quote Generator
-A web generator that creates printable quotes for clothing design.
-
-Features:
-- Random quote generation
-- Simple web interface
-- Printable formats
-
----
 
 ## Currently Learning
 
@@ -74,3 +63,5 @@ Build production-level backend systems and develop AI tools that solve real prob
 ## Contact
 
 GitHub: https://github.com/yourusername
+Telegram: https://t.me/Alauxxv
+Instagram: https://www.instagram.com/argyn_asf
