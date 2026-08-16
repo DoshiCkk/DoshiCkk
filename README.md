@@ -62,6 +62,5 @@ Build production-level backend systems and develop AI tools that solve real prob
 
 ## Contact
 
-GitHub: https://github.com/yourusername
 Telegram: https://t.me/Alauxxv
 Instagram: https://www.instagram.com/argyn_asf
