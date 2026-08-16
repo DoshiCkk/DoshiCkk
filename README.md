@@ -18,16 +18,13 @@ Available for freelance and subcontract work. Registered sole proprietor (ИП) 
 **Educational platform — IELTS/SAT prep SaaS**
 NestJS + MongoDB + Next.js. Multi-provider LLM support for automated essay scoring, adaptive assessment, Cloudflare R2 storage, Dockerized deployment.
 
-**CargoFlow — freight logistics CRM**
-Next.js CRM for cargo transportation. Built during production internship at ИТЦ УДП РК.
-
 **GRIFF — wholesale catalog**
 E-commerce and B2B catalog for a construction materials supplier.
 
 **LMS platform**
 Learning management system serving 200+ students. Course delivery, progress tracking, role-based access.
 
-**Document processing pipeline**
+**QSmeta-Document processing pipeline**
 VLM-based extraction of structured data from construction blueprints and technical documents.
 
 **PNG Noise** — image encryptor. Open source.
