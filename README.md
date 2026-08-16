@@ -1,66 +1,38 @@
 # Hi, I'm Alauddin 👋
 
-Python Backend Developer from Astana.
+Fullstack developer from Astana, Kazakhstan.
+I build production backend systems, web applications and AI-powered document processing tools.
 
-I build backend systems, web applications and experiment with AI and computer vision.
-
-Currently focused on improving my skills in backend engineering and machine learning.
-
----
+Available for freelance and subcontract work. Registered sole proprietor (ИП) — contracts and closing documents.
 
 ## Tech Stack
 
-Python  
-Django  
-Django REST Framework  
-PostgreSQL  
-Docker  
-OpenCV  
-TensorFlow  
-HTML / CSS / JavaScript  
+**Backend:** Node.js, NestJS, Python, FastAPI
+**Frontend:** Next.js, React, TypeScript
+**Data:** PostgreSQL, MongoDB, Redis
+**Infra:** Docker, Nginx, CI/CD
+**AI/ML:** OCR pipelines, vision-language models, LLM integration (Ollama, Groq)
 
----
+## Selected Work
 
-## Projects
+**Educational platform — IELTS/SAT prep SaaS**
+NestJS + MongoDB + Next.js. Multi-provider LLM support for automated essay scoring, adaptive assessment, Cloudflare R2 storage, Dockerized deployment.
 
-### Lip Reading AI
-An AI system that recognizes speech by analyzing lip movements.
+**CargoFlow — freight logistics CRM**
+Next.js CRM for cargo transportation. Built during production internship at ИТЦ УДП РК.
 
-Features:
-- Lip detection using computer vision
-- Dataset recording
-- Model training with TensorFlow
-- Real-time prediction experiments
+**GRIFF — wholesale catalog**
+E-commerce and B2B catalog for a construction materials supplier.
 
----
+**LMS platform**
+Learning management system serving 200+ students. Course delivery, progress tracking, role-based access.
 
-### Django Marketplace
-A marketplace web application with full backend logic.
+**Document processing pipeline**
+VLM-based extraction of structured data from construction blueprints and technical documents.
 
-Features:
-- User authentication
-- Seller dashboard
-- Product reviews
-- Shopping cart and order system
-- PostgreSQL database
-- Dockerized environment
-
-
-## Currently Learning
-
-Machine Learning  
-System Design  
-Advanced Django / Backend Architecture  
-
----
-
-## Goals
-
-Build production-level backend systems and develop AI tools that solve real problems.
-
----
+**PNG Noise** — image encryptor. Open source.
 
 ## Contact
 
-Telegram: https://t.me/Alauxxv
-Instagram: https://www.instagram.com/argyn_asf
+Telegram: [@Alauxxv](https://t.me/Alauxxv)
+Instagram: [@argyn_asf](https://www.instagram.com/argyn_asf)
