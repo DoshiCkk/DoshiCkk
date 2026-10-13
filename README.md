@@ -1,35 +1,32 @@
-# Hi, I'm Alauddin 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Alauddin&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
 
-Fullstack developer from Astana, Kazakhstan.
-I build production backend systems, web applications and AI-powered document processing tools.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Backend+on+NestJS+and+Python;Extracting+data+from+blueprints+with+VLMs;Fullstack+dev+from+Astana%2C+KZ" alt="typing" />
+</p>
 
-Available for freelance and subcontract work. Registered sole proprietor (ИП) — contracts and closing documents.
+Fullstack dev from Astana. Mostly backend (NestJS, Python), and lately a lot of work on pulling structured data out of documents that were never meant to be parsed — construction blueprints, technical specs, scans.
 
-## Tech Stack
+Studying Software Engineering at AITU. Did music production before I got into code. Armwrestling when I'm not at the keyboard.
 
-**Backend:** Node.js, NestJS, Python, FastAPI
-**Frontend:** Next.js, React, TypeScript
-**Data:** PostgreSQL, MongoDB, Redis
-**Infra:** Docker, Nginx, CI/CD
-**AI/ML:** OCR pipelines, vision-language models, LLM integration (Ollama, Groq)
+### Things I've built
 
-## Selected Work
+- **QSmeta** — extracts structured data from construction blueprints and technical documents using vision-language models. <!-- 1 line: what was hard (tables? rotated sheets? stamps?) + accuracy/volume if you have it --> [repo/demo](#)
+- **Exam prep platform (IELTS/SAT)** — automated essay scoring through multiple LLM providers, adaptive tests, files on Cloudflare R2. NestJS · MongoDB · Next.js · Docker. [link](#)
+- **LMS** — used by 200+ students. Courses, progress tracking, roles. [link](#)
+- **GRIFF** — B2B catalog for a building-materials wholesaler. [live](#)
+- **PNG Noise** — image encryptor, open source. [repo](#)
 
-**Educational platform — IELTS/SAT prep SaaS**
-NestJS + MongoDB + Next.js. Multi-provider LLM support for automated essay scoring, adaptive assessment, Cloudflare R2 storage, Dockerized deployment.
+### What I actually use
 
-**GRIFF — wholesale catalog**
-E-commerce and B2B catalog for a construction materials supplier.
+TypeScript, NestJS, Next.js, Python/FastAPI, PostgreSQL, MongoDB, Redis, Docker, Nginx. Ollama and Groq for LLM stuff.
 
-**LMS platform**
-Learning management system serving 200+ students. Course delivery, progress tracking, role-based access.
+### Work
 
-**QSmeta-Document processing pipeline**
-VLM-based extraction of structured data from construction blueprints and technical documents.
+Open to freelance and subcontracts. I invoice through my own sole proprietorship (ИП, Kazakhstan), so contracts and closing documents are covered.
 
-**PNG Noise** — image encryptor. Open source.
+Telegram — [@Alauxxv](https://t.me/Alauxxv)
 
-## Contact
-
-Telegram: [@Alauxxv](https://t.me/Alauxxv)
-Instagram: [@argyn_asf](https://www.instagram.com/argyn_asf)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DoshiCkk/DoshiCkk/output/github-snake-dark.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/DoshiCkk/DoshiCkk/output/github-snake.svg" />
+</picture>
